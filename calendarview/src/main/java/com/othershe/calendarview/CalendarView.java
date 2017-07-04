@@ -20,6 +20,7 @@ public class CalendarView extends ViewPager {
     //记录当前PagerAdapter的position
     private int currentPosition;
 
+
     private OnPagerChangeListener pagerChangeListener;
     private OnMonthItemClickListener itemClickListener;
     private OnMonthItemChooseListener itemChooseListener;
