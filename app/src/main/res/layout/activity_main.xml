@@ -40,8 +40,8 @@
     </RelativeLayout>
 
     <com.othershe.calendarview.WeekView
-        android:layout_width="match_parent"
-        android:layout_height="35dp" />
+    android:layout_width="match_parent"
+    android:layout_height="35dp" />
 
     <com.othershe.calendarview.CalendarView
         android:id="@+id/calendar"
